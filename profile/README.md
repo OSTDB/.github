@@ -17,8 +17,8 @@ with links to Spotify, Apple Music and album.link.
 
 <!-- STATS:START -->
 <p>
-<a href="https://ostdb.net"><img alt="soundtracks: 3,849" src="https://img.shields.io/badge/soundtracks-3%2C849-E2B714?style=for-the-badge&labelColor=161718" /></a>
-<a href="https://github.com/OSTDB/soundtracks/tree/main/games"><img alt="games: 3,366" src="https://img.shields.io/badge/games-3%2C366-ECECEE?style=for-the-badge&labelColor=161718" /></a>
+<a href="https://ostdb.net"><img alt="soundtracks: 3,856" src="https://img.shields.io/badge/soundtracks-3%2C856-E2B714?style=for-the-badge&labelColor=161718" /></a>
+<a href="https://github.com/OSTDB/soundtracks/tree/main/games"><img alt="games: 3,373" src="https://img.shields.io/badge/games-3%2C373-ECECEE?style=for-the-badge&labelColor=161718" /></a>
 </p>
 <!-- STATS:END -->
 
